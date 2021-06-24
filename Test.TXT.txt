@@ -1,0 +1,12 @@
+Initial Change:
+git init
+git clone <<clone URL>>
+cd <<folder name>>
+git status
+git checkout <<created branch name>>
+Make Code Changes
+git status
+git add .
+git status
+git commit
+git push
